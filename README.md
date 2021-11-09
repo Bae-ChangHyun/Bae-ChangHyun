@@ -1,5 +1,6 @@
 ### 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFD159&height=300&section=header&text=Hi,%20l'm%20ChangHyun!%20&fontColor=3E3C3C&rotate=0)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bae-ChangHyun&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Bae-ChangHyun/Bae-ChangHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
