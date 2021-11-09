@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFD159&height=300&section=header&text=Hi,%20l'm%20ChangHyun!%20&fontColor=3E3C3C&rotate=0)
 
 <!--
