@@ -9,9 +9,9 @@
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=FFFFFF)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF)]()
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF)]()
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 </div>
 
 
