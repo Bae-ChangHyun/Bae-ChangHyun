@@ -3,7 +3,6 @@
 
 ![ChangHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bae-ChangHyun&show_icons=true&theme=swift)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=matthew624)](https://solved.ac/matthew624/)
-
 <div align="center">
 ### :wrench: Tech Stack  :wrench:
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=FFFFFF)]()
@@ -17,7 +16,8 @@
 [![KAKAO Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=KaiOS&logoColor=white&link=mailto:matthew624@kakao.com)](mailto:matthew624@kakao.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=TV%20Time&logoColor=FFFFFF&link=https://changsroad.tistory.com/
 (https://changsroad.tistory.com/)
-</div>
+  </div>
+
 
 <!--
 **Bae-ChangHyun/Bae-ChangHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
