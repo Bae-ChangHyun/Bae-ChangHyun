@@ -16,8 +16,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ### :cake: INFO  :cake:
 [![KAKAO Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=KaiOS&logoColor=white&link=mailto:matthew624@kakao.com)](mailto:matthew624@kakao.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=TV%20Time&logoColor=FFFFFF&link=https://changsroad.tistory.com/)](https://changsroad.tistory.com/)
-
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=TV%20Time&logoColor=FFFFFF&link=https://changsroad.tistory.com/
+(https://changsroad.tistory.com/)
 
 <!--
 **Bae-ChangHyun/Bae-ChangHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
