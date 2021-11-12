@@ -1,5 +1,7 @@
 ### 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFD159&height=300&section=header&text=Hi,%20l'm%20ChangHyun!%20&fontColor=3E3C3C&rotate=0&descSize=50)
+<div align="center">
+<p align="center">
 
 ![ChangHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bae-ChangHyun&show_icons=true&theme=swift)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=matthew624)](https://solved.ac/matthew624/)
@@ -15,7 +17,7 @@
 ### :cake: INFO  :cake:
 [![KAKAO Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=KaiOS&logoColor=white&link=mailto:matthew624@kakao.com)](mailto:matthew624@kakao.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=TV%20Time&logoColor=FFFFFF&link=https://changsroad.tistory.com/)](https://changsroad.tistory.com/)
-
+</div>
 
 
 <!--
