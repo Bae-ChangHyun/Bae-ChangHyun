@@ -1,14 +1,14 @@
 ### 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFD159&height=300&section=header&text=Hi,%20l'm%20ChangHyun!%20&fontColor=3E3C3C&rotate=0)
 
-<div align="center">
-<p align="center">
-<div align="left">  
+<p align="center"> 
+<div align="left">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bae-ChangHyun&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<div align="right">  
+<div align="right">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=matthew624)](https://solved.ac/matthew624/)
 </div>
+<div align="center">
 ### :wrench: Tech Stack  :wrench:
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=FFFFFF)]()
 [![Python](https://img.shields.io/badge/Python-FADE27?style=flat-square&logo=Python&logoColor=FFFFFF)]()
