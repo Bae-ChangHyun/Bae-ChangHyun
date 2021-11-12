@@ -3,7 +3,7 @@
 
 <div align="center">
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bae-ChangHyun&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=matthew624)](https://solved.ac/matthew624/)
 ### :wrench: Tech Stack  :wrench:
