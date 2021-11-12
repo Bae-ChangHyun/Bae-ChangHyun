@@ -1,8 +1,6 @@
 ### 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFD159&height=300&section=header&text=Hi,%20l'm%20ChangHyun!%20&fontColor=3E3C3C&rotate=0)
 
-<div align="center">
-<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=matthew624)](https://solved.ac/matthew624/)
