@@ -5,7 +5,7 @@
 <div align="center">
 <p align="center">
   
-![ChangHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bae-ChangHyun&show_icons=true&theme=swift)<br>
+ <!-- ![ChangHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bae-ChangHyun&show_icons=true&theme=swift)<br> -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=matthew624)](https://solved.ac/matthew624/)
 
 ### :wrench: Tech Stack  :wrench:
