@@ -18,9 +18,12 @@
 ![CSS5](https://img.shields.io/badge/CSS-%23E34F26.svg?style=flat-square&logo=CSS3&logoColor=white)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF)]()
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-### :cake: INFO  :cake:
-[![KAKAO Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=KaiOS&logoColor=white&link=mailto:matthew624@kakao.com)](mailto:matthew624@kakao.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=TV%20Time&logoColor=FFFFFF&link=https://changsroad.tistory.com/)](https://changsroad.tistory.com/)
+### :cake: Personal Info  :cake:
+![Static Badge](https://img.shields.io/badge/Mail-333333?style=flat&logo=naver&logoColor=%2303C75A&color=%23ffffff&link=matthew624%40naver.com)
+![Static Badge](https://img.shields.io/badge/Dev%20Blog-333333?style=%20for-the-badge&logo=tistory&logoColor=%23333333&color=%23fc4e42&link=https%3A%2F%2Fchangsroad.tistory.com%2F)
+![Static Badge](https://img.shields.io/badge/Insta-ffffff?style=%20for-the-badge&logo=instagram&logoColor=%23ffffff&color=%23E4405F&link=https%3A%2F%2Fchangsroad.tistory.com%2F)
+
+
 </div>
 
 
