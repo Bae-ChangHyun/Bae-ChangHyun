@@ -1,5 +1,5 @@
 ### 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!😊&desc=This%20is%20ChangHyuns%20Github.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!😁 &desc=This%20is%20ChangHyuns%20Github.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBae-ChangHyun%2FBae-ChangHyun&count_bg=%23151515&title_bg=%230F28E7&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=matthew624)](https://solved.ac/matthew624/)
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Bae-ChangHyun">
@@ -10,7 +10,7 @@
   
 <div align=center>
   <h2>💁‍♂️ Introduction</h2>
-  <p>안녕하세요 머신러닝, 딥러닝을 공부하는 배창현입니다.</p>
+  <p>안녕하세요❗ 머신러닝, 딥러닝을 공부하는 배창현입니다.</p>
   <span>✔ 개념을 깊이있게 공부고자합니다 .</span>
   <br>
   <br>
