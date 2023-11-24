@@ -24,9 +24,10 @@
 </div>
 
 ### :cake: Personal Info  :cake:
-![Static Badge](https://img.shields.io/badge/Mail-333333?style=flat&logo=naver&logoColor=%2303C75A&color=%23ffffff&link=matthew624%40naver.com)
-![Static Badge](https://img.shields.io/badge/Dev%20Blog-333333?style=%20for-the-badge&logo=tistory&logoColor=%23333333&color=%23fc4e42&link=https%3A%2F%2Fchangsroad.tistory.com%2F)
-![Static Badge](https://img.shields.io/badge/Insta-ffffff?style=%20for-the-badge&logo=instagram&logoColor=%23ffffff&color=%23E4405F&link=https%3A%2F%2Fchangsroad.tistory.com%2F)
+<a href="mailto:matthew624@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat&logo=naver&logoColor=ffffff&link=mailto%3Amatthew624%40naver.com"/></a>
+<a href="https://changsroad.tistory.com/"><img src="https://img.shields.io/badge/Dev%20Blog-333333?style=%20for-the-badge&logo=tistory&logoColor=%23333333&color=%23fc4e42&link=https%3A%2F%2Fchangsroad.tistory.com%2F"/></a> 
+<a href="https://www.instagram.com/raeps_dlog_/"><img src="https://img.shields.io/badge/Insta-ffffff?style=%20for-the-badge&logo=instagram&logoColor=%23ffffff&color=%23E4405F&link=https%3A%2F%2Fchangsroad.tistory.com%2F"/></a>
+
 
 ### :wrench: Tech Stack  :wrench:
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=FFFFFF)]()
