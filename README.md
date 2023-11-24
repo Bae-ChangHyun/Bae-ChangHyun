@@ -11,7 +11,7 @@
 <div align=center>
   <h2>💁‍♂️ Introduction</h2>
   <p>안녕하세요❗ 머신러닝, 딥러닝을 공부하는 배창현입니다.</p>
-  <span>✔ 개념을 깊이있게 공부고자합니다 .</span>
+  <span>✔ 개념을 깊이있게 공부하고자 합니다 .</span>
   <br>
   <br>
   <span>✔ 코드짜는 것을 좋아합니다.</span>
