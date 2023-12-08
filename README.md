@@ -6,22 +6,22 @@
 
 
 <div align="center">
-<p align="center">
-  
-<div align=center>
-  <h2>💁‍♂️ Introduction</h2>
-  <p>안녕하세요❗ 머신러닝, 딥러닝을 공부하는 배창현입니다.</p>
-  <span>✔ 개념을 깊이있게 공부하고자 합니다 .</span>
-  <br>
-  <br>
-  <span>✔ 코드짜는 것을 좋아합니다.</span>
-  <br>
-  <br>
-  <span>✔ 다양한 프로젝트를 경험해보고 싶습니다.</span>
-  <br>
-  
-  <br><br>
-</div>
+  <p align="center">
+    
+  <div align=center>
+    <h2>💁‍♂️ Introduction</h2>
+    <p>안녕하세요❗ 머신러닝, 딥러닝을 공부하는 배창현입니다.</p>
+    <span>✔ 개념을 깊이있게 공부하고자 합니다 .</span>
+    <br>
+    <br>
+    <span>✔ 코드짜는 것을 좋아합니다.</span>
+    <br>
+    <br>
+    <span>✔ 다양한 프로젝트를 경험해보고 싶습니다.</span>
+    <br>
+
+  </div>
+
 
 ### :cake: Personal Info  :cake:
 <a href="mailto:matthew624@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat&logo=naver&logoColor=ffffff&link=mailto%3Amatthew624%40naver.com"/></a>
@@ -37,8 +37,8 @@
 ![CSS5](https://img.shields.io/badge/CSS-%23E34F26.svg?style=flat-square&logo=CSS3&logoColor=white)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF)]()
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-
 </div>
+
 <!--
 **Bae-ChangHyun/Bae-ChangHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
