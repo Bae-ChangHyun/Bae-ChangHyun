@@ -28,7 +28,7 @@
 <a href="https://changsroad.tistory.com/"><img src="https://img.shields.io/badge/Dev%20Blog-333333?style=%20for-the-badge&logo=tistory&logoColor=%23333333&color=%23fc4e42&link=https%3A%2F%2Fchangsroad.tistory.com%2F"/></a> 
 <a href="https://www.instagram.com/raeps_dlog_/"><img src="https://img.shields.io/badge/Insta-ffffff?style=%20for-the-badge&logo=instagram&logoColor=%23ffffff&color=%23E4405F&link=https%3A%2F%2Fchangsroad.tistory.com%2F"/></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Study+hard+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Study+hard+for+SUCCESS;Second+line+of+text)](https://git.io/typing-svg)
 
 
 ### :wrench: Tech Stack  :wrench:
