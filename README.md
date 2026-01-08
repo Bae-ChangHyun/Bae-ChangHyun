@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50&animation=fadeIn)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBae-ChangHyun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FBae-ChangHyun%2FBae-ChangHyun?color=green&label=hits&size=small)](https://myhits.vercel.app)
 [![Followers](https://img.shields.io/github/followers/Bae-ChangHyun?style=social)](https://github.com/Bae-ChangHyun)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+Engineer;LLM+%7C+RAG+%7C+Fine-tuning;Open+Source+Enthusiast" alt="Typing SVG" /></a>
@@ -45,23 +45,9 @@ I'm passionate about building LLM-powered services and dream of creating my own 
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:matthew624@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+  <a href="mailto:chbae624@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://changsroad.tistory.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bae-ChangHyun&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bae-ChangHyun&layout=compact&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bae-ChangHyun&hide_border=true)
-
-</div>
 
 ---
 
