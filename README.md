@@ -20,15 +20,17 @@ I'm passionate about building LLM-powered services and dream of creating my own 
 ### 🔭 What I Do
 
 - **Current Focus**: RAG, Fine-tuning, AI Agent, Document Parsing
-- **Past Experience**: Object Detection (YOLO), Time-series Forecasting
+- **Past Experience**: Object Detection, Time-series Forecasting
 - Contributing to open-source projects
 
 ### 💡 What I Like
 
 - 🚀 Quickly prototyping ideas with Streamlit & Gradio
-- 🛠 Leveraging AI dev tools (Claude Code, Cursor, etc.)
+- 🛠 Leveraging AI dev tools (Claude Code, Cursor, Codex, etc.)
 - 🔍 Exploring & utilizing open-source projects
 - 📝 Structured documentation and experiment logging
+- 🧩 Building side projects in my free time
+- 🔎 Meticulously reviewing details and double-checking my work
 
 ---
 
@@ -42,11 +44,23 @@ I'm passionate about building LLM-powered services and dream of creating my own 
 
 ---
 
+## 🤖 AI Coding Usage
+
+<p align="center">
+  <a href="https://tokscale.ai/u/Bae-ChangHyun">
+    <img src="https://tokscale.ai/api/embed/Bae-ChangHyun/svg" alt="Tokscale Stats" />
+  </a>
+</p>
+
+---
+
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:chbae624@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://changsroad.tistory.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <a href="mailto:chbae624@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://changsroad.tistory.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=tistory&logoColor=white"/></a>
+  <a href="https://www.threads.com/@ckdgus99"><img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white"/></a>
+  <a href="https://aibriefing.imbch.dev/landing"><img src="https://img.shields.io/badge/AI_Briefing-FF6B35?style=flat&logo=rss&logoColor=white"/></a>
 </p>
 
 ---
