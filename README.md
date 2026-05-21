@@ -17,6 +17,13 @@ Hi there! I'm **ChangHyun Bae**, an AI Engineer based in Korea.
 
 I'm passionate about building LLM-powered services and dream of creating my own product someday.
 
+<p align="center">
+  <a href="mailto:chbae624@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://changsroad.tistory.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=tistory&logoColor=white"/></a>
+  <a href="https://www.threads.com/@ckdgus99"><img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white"/></a>
+  <a href="https://aibriefing.imbch.dev/landing"><img src="https://img.shields.io/badge/AI_Briefing-FF6B35?style=flat&logo=rss&logoColor=white"/></a>
+</p>
+
 ### 🔭 What I Do
 
 - **Current Focus**: RAG, Fine-tuning, AI Agent, Document Parsing
@@ -48,19 +55,8 @@ I'm passionate about building LLM-powered services and dream of creating my own 
 
 <p align="center">
   <a href="https://tokscale.ai/u/Bae-ChangHyun">
-    <img src="https://tokscale.ai/api/embed/Bae-ChangHyun/svg" alt="Tokscale Stats" />
+    <img src="https://raw.githubusercontent.com/Bae-ChangHyun/tokscale/readme-card/tokscale-card.svg" alt="AI Coding Usage" width="480" />
   </a>
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:chbae624@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://changsroad.tistory.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=tistory&logoColor=white"/></a>
-  <a href="https://www.threads.com/@ckdgus99"><img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white"/></a>
-  <a href="https://aibriefing.imbch.dev/landing"><img src="https://img.shields.io/badge/AI_Briefing-FF6B35?style=flat&logo=rss&logoColor=white"/></a>
 </p>
 
 ---
