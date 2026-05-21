@@ -20,9 +20,7 @@
 
 ## 👋 About Me
 
-<table>
-<tr>
-<td valign="top" width="56%">
+<a href="https://tokscale.ai/u/Bae-ChangHyun"><img src="https://raw.githubusercontent.com/Bae-ChangHyun/tokscale/readme-card/tokscale-card.svg" alt="AI Coding Usage" width="400" align="right" hspace="20" /></a>
 
 Hi there! I'm **ChangHyun Bae**, an AI Engineer based in Korea.
 
@@ -43,16 +41,7 @@ I'm passionate about building LLM-powered services and dream of creating my own 
 - 🧩 Building side projects in my free time
 - 🔎 Meticulously reviewing details and double-checking my work
 
-</td>
-<td valign="top" width="44%">
-
-<a href="https://tokscale.ai/u/Bae-ChangHyun">
-  <img src="https://raw.githubusercontent.com/Bae-ChangHyun/tokscale/readme-card/tokscale-card.svg" alt="AI Coding Usage" width="400" />
-</a>
-
-</td>
-</tr>
-</table>
+<br clear="all"/>
 
 ---
 
