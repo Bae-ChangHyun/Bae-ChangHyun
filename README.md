@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-<a href="https://tokscale.ai/u/Bae-ChangHyun"><img src="https://raw.githubusercontent.com/Bae-ChangHyun/tokscale/readme-card/tokscale-card.svg" alt="AI Coding Usage" width="400" align="right" hspace="20" /></a>
+<a href="https://tokscale.ai/u/Bae-ChangHyun"><img src="https://tokscale.ai/api/embed/Bae-ChangHyun/svg?template=minimal&graph=1&rank=percent" alt="AI Coding Usage" width="400" align="right" hspace="20" /></a>
 
 Hi there! I'm **ChangHyun Bae**, an AI Engineer based in Korea.
 
