@@ -20,8 +20,6 @@
 
 ## 👋 About Me
 
-<a href="https://tokscale.ai/u/Bae-ChangHyun"><img src="https://tokscale.ai/api/embed/Bae-ChangHyun/svg?template=minimal&graph=1&rank=percent" alt="AI Coding Usage" width="400" align="right" hspace="20" /></a>
-
 Hi there! I'm **ChangHyun Bae**, an AI Engineer based in Korea.
 
 I'm passionate about building LLM-powered services and dream of creating my own product someday.
@@ -41,8 +39,6 @@ I'm passionate about building LLM-powered services and dream of creating my own 
 - 🧩 Building side projects in my free time
 - 🔎 Meticulously reviewing details and double-checking my work
 
-<br clear="all"/>
-
 ---
 
 ## 🛠 Tech Stack
@@ -51,6 +47,10 @@ I'm passionate about building LLM-powered services and dream of creating my own 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,pytorch,linux,docker,git,mysql,vscode&perline=7" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://tokscale.ai/u/Bae-ChangHyun"><img src="https://tokscale.ai/api/embed/Bae-ChangHyun/svg?template=minimal&graph=1&rank=percent" alt="AI Coding Usage" width="500" /></a>
 </p>
 
 ---
