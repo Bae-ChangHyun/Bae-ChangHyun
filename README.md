@@ -2,8 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50&animation=fadeIn)
 
-[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FBae-ChangHyun%2FBae-ChangHyun?color=green&label=hits&size=small)](https://myhits.vercel.app)
-[![Followers](https://img.shields.io/github/followers/Bae-ChangHyun?style=social)](https://github.com/Changroro)
+[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FChangroro%2FChangroro?color=green&label=hits&size=small)](https://myhits.vercel.app)
+[![Followers](https://img.shields.io/github/followers/Changroro?style=social)](https://github.com/Changroro)
 
 <p align="center">
   <a href="mailto:chbae624@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
